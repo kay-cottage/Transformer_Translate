@@ -1,0 +1,2 @@
+# Transformer_Translate
+idea:一个能自动将C语言的代码翻译成python代码，transformer无人机自动任务执行程序
